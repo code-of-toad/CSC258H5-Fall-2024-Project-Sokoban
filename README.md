@@ -1,5 +1,5 @@
 # CSC258H5-Fall-2024-Project-Sokoban
-The two files of interest are:
+The two files of interest:
 * `Project/SUBMISSION_Proj_Sokoban_CODE.s`
 * `Project/SUBMISSION_Proj_Sokoban_DOCUMENTATION.s`
 
